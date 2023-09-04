@@ -1,0 +1,7 @@
+This is a sample file to learn git
+Github maintains 3 copies of our source code
+1. working copy
+2. local copy(git add, git commit)
+3. remote copy(git push)
+
+Faced some issues while pushing the code
